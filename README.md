@@ -1,4 +1,4 @@
 # VC
-Visión por Computador - FIB
+## Visión por Computador - FIB
 
-Curso 2022 - 2023
+Q2 2022 - 2023
